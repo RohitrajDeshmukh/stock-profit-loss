@@ -13,9 +13,9 @@ function calculateProfitLoss(initial, quantity, current){
     }else if(current>initial){
         const profit = (current-initial)*quantity;
         const profitPercentage = (profit/initial) * 100;
-        output.innerHTML = `Profit is ${profit} and Percentage of Profit is ${profitPercentage}%`;
+        output.innerHTML = `Profit is ${profit} and Percentage of Profit is ${profitPercentage}% `;
     }else{
-        output.innerHTML = "no pain no gain and no gain no pain!";
+        output.innerHTML = "No Pain No Gain and No Gain No Pain!";
     }
 }
 
