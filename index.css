@@ -10,22 +10,22 @@ body{
     padding: 2rem;
     border-radius: 2rem;
 }
-label{
+.label{
     display: block;
     margin: 1rem 0;
     font-weight: bold;
 }
-input{
+.input{
     display: block;
     width: 100%;
     padding: 0.5rem;
     border: transparent;
     border-radius: 2rem;
 }
-h1{
+.heading{
     color: #fff;
 }
-button{
+.btn{
     width: 20%;
     padding: 0.7rem 1rem;
     background-color: #740f5a;
@@ -37,7 +37,7 @@ button{
     border-radius: 00.5rem;
     margin-top: 2rem;
 }
-#output{
+.show-output{
     margin: 2rem 0;
     text-align: center;
     font-weight: bold;
