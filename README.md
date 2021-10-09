@@ -1,4 +1,4 @@
-# Stock Returns Calculator
+# Stock Profit/Loss?
 
 **About App**
 
